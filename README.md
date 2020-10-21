@@ -1,2 +1,2 @@
-# New-Reposiory
+# New-Repository
 New assignment
